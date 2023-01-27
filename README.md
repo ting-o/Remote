@@ -1,2 +1,2 @@
-# Remote
+# remote
 1st remote repository
